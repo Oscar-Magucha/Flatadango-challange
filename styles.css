@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#movie-details {
+    text-align: center;
+}
+
+#films {
+    list-style: none;
+    padding: 0;
+}
+
+.film-item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.sold-out {
+    text-decoration: line-through;
+    color: gray;
+}
